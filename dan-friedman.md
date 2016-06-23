@@ -16,11 +16,11 @@ Friedman 对程序语言的理解可以说是世界的最高标准，很可惜�
 
 觉得 ML 比 Scheme 先进很多的人们应该看看 Friedman 这本书：The Little MLer：
 
-The Little MLer
+[图片缺少]
 
 想要真正理解 Java 设计模式的人可以看看这本：A Little Java, A Few Patterns:
 
-
+[图片缺少]
 
 这些东西的优点和弱点仿佛在他心里都有数，他几乎总是指向正确的前进方向。
 
