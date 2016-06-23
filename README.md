@@ -1,2 +1,2 @@
 # YinWangBak
-A collection of articles writen by YinWang
+A collection of articles written by YinWang
