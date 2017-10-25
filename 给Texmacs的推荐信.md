@@ -1,4 +1,4 @@
-#给TeXmacs的推荐信
+# 给TeXmacs的推荐信
 
 作者：王垠
 
